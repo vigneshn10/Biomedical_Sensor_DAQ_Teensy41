@@ -1,4 +1,4 @@
-# Synchronous Multi-Sensor DAQ for Biosignals — Teensy 4.1
+# Synchronous Multi-Sensor DAQ for Biosignals Teensy 4.1
 
 A real-time, multi-threaded synchronous data acquisition system built on the **Teensy 4.1** microcontroller. The system simultaneously acquires four physiological signals **ECG** (electrocardiogram), **PCG** (phonocardiogram / heart sounds), **SCG** (seismocardiogram via IMU), and **body temperature** time-stamped to a shared 1 kHz hardware clock and streamed over USB serial for offline analysis or real-time processing.
 
